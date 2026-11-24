@@ -1,0 +1,4 @@
+- insert:
+    - id: eleckoi-world-engine
+      name: eleckoi-world-engine
+      config: {}
