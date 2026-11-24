@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "World engine (open-world sandbox)",
-    "description": "A real world state machine for roleplay: world time advances by the minute, NPCs follow schedules, time- and threshold-triggered events fire in code, plots advance on pacing, variables are range-checked, dice follow rules, and key NPCs make their own decisions. Bundles the 2025 German Empire world.",
-    "detail": "docs/DETAIL.md"
-  }
-}
